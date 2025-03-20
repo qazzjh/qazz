@@ -1,6 +1,6 @@
 ---
 title: "华中农业大学 (Huazhong Agricultural University)"
-permalink: /hzau/
+permalink: /categories/
 ---
 
 # 华中农业大学 (Huazhong Agricultural University)
