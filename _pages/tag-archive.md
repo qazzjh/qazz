@@ -1,6 +1,6 @@
 ---
 title: "江城武汉 (Wuhan, the River City)"
-permalink: /wuhan/
+permalink: /tags/
 ---
 
 # 江城武汉 (Wuhan, the River City)
