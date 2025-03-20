@@ -1,9 +1,9 @@
 main:
-  - title: "Posts"
+  - title: "家乡介绍"
     url: /posts/
-  - title: "Categories"
+  - title: "华中农业大学简介"
     url: /categories/
-  - title: "Tags"
+  - title: "武汉介绍"
     url: /tags/
-  - title: "About"
+  - title: "研究方向"
     url: /about/
