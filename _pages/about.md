@@ -1,8 +1,10 @@
 ---
-permalink: /about/
-title: "About"
+permalink: /research-interests/
+title: "Research Interests"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+我的研究方向主要集中于**叶面喷施生长调节剂对雪茄烟生化特性的影响**。  植物生长调节剂 (PGRs) 在农业生产中扮演着至关重要的角色，它们能够调控植物的生长发育，从而提高产量和改善品质。雪茄烟作为一种重要的经济作物，其品质受到多种因素的影响，其中植物自身的生理生化过程尤为关键。
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+本研究旨在深入探讨不同类型的生长调节剂叶面喷施对雪茄烟植株内源生化组分的影响机制。具体而言，我关注以下几个关键问题：生长调节剂如何影响雪茄烟叶片的碳水化合物代谢、氮代谢以及酚类物质的积累？这些生化特性的改变又将如何最终影响雪茄烟的品质，例如香气、口感和燃烧性？
+
+通过系统地研究生长调节剂的作用，我希望能够为雪茄烟的优质高效生产提供理论基础和技术支撑。研究结果不仅有助于优化雪茄烟的种植管理措施，提升产品质量，也为深入理解植物生长调节剂在作物生理调控中的作用机制提供新的视角。未来，我计划进一步探索不同生长调节剂之间的协同作用，以及环境因素与生长调节剂效应的互作关系，以期更全面地揭示叶面喷施生长调节剂对雪茄烟生化特性的调控规律。
