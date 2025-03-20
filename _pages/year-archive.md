@@ -1,6 +1,6 @@
 ---
-title: "家乡杭州 (Hometown Hangzhou)"
 permalink: /posts/
+title: "家乡杭州 (Hometown Hangzhou)"
 ---
 
 # 家乡杭州 (Hometown Hangzhou)
